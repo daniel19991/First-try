@@ -95,7 +95,7 @@ body {
 
 .right {
   width: 540px;
-  background: url(/images/image-header-desktop.jpg) no-repeat;
+  background: url(../images/image-header-desktop.jpg) no-repeat;
   background-blend-mode: overlay;
   background-color: #aa5cdb;
   background-position: center;
